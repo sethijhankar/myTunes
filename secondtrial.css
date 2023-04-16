@@ -1,0 +1,175 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    position: fixed;
+    background-color: rgb(73, 73, 73);
+}
+.list{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    height: 5vh;
+    list-style: none;
+    background-color: rgb(73, 73, 73);
+    
+}
+.a,.b,.c,.d,.e{
+    margin-left: 40px;
+    margin-top: 10px;
+    color: white;
+}
+.head{
+    color: white;
+    text-align: center;
+    padding-top: 170px;
+    background: url(./WhatsApp\ Image\ 2022-02-05\ at\ 01.20.23.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+.text{
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+}
+.para{
+    margin-top: 40px;
+    margin-left: 80px;
+    margin-right: 80px;
+    color: black;
+}
+.button{
+    background-color: rgba(33, 33, 105, 0.918);
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 30px ;
+    border: 1px solid rgba(33, 33, 105, 0.918);
+    height: 50px;
+}
+.my{
+    margin-bottom: 50px;
+    font-size: 4rem;
+}
+.your{
+    margin-bottom: 50px;
+}
+.enjoy{
+    margin-top: 10px;
+}
+.b2{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 30px ;
+    border: 1px solid red;
+    margin-bottom: 30px;
+    height: 50px;
+}
+.music{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px;
+    background-color: #252529;
+    color: white;
+}
+.music h1{
+    font-size: 3rem;
+    margin-bottom: 30px;
+}
+.music h2{
+    margin-bottom: 30px;
+}
+.music p{
+    line-height: 120%;
+    padding-bottom: 30px;
+}
+.img{
+    width: 80%;
+    margin-left: 10%;
+}
+.world{
+    text-align: center;
+    background:url('./section-bg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 500px;
+
+    color: white;
+    margin-top: 30px;
+}
+.world h1{
+    padding-top: 175px;
+}
+.world p{
+    padding-top: 50px;
+    line-height: 120%;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.cards{
+    align-items: left;
+    height: 350px;
+    margin-left: 100px;
+}
+.temp{
+    display: flex;   
+}
+.gift{
+    margin-top: 70px;
+    font-size: 1.2rem;
+    margin: 50px;
+}
+.line{
+    height: 1.5px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.6;
+    margin-top: 30px;
+}
+.gift p{
+    margin-top: 40px;
+}
+.orange{
+    display: flex;
+    justify-content: space-around;
+    background-color: #252529;
+    color: white;
+    height: 400px;
+    padding: 30px;
+    padding-bottom: 10px;
+    position: static;
+    width: 100%;
+    bottom: 0;
+}
+.orange ul{
+    list-style: none;
+    line-height: 40px;
+    font-size: 1.2rem;
+}
+.l2{
+    height: 2px;
+    width: 100%;
+    background-color: white;
+    opacity: 0.15;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+.name{
+    color: white;
+    background-color: gray;
+    text-align: center;
+    margin-top: -30px;
+}
+
+
